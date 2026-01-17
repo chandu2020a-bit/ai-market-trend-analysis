@@ -32,6 +32,3 @@ To predict future market demand by learning patterns from historical consumer in
 - Pandas
 - Scikit-learn
 - Matplotlib
-
-## Note
-The Jupyter Notebook is the primary artifact for evaluation.
