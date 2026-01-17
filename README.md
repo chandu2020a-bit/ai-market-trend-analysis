@@ -20,7 +20,7 @@ To predict future market demand by learning patterns from historical consumer in
 
 ## Results
 - Achieved MAE ≈ 3.23 on unseen test data
-- Generated 12-week demand forecast with confidence band
+- Generated 8-week demand forecast with confidence band
 
 ## File Structure
 - `notebooks/market_trend_analysis.ipynb` – Main notebook (primary evaluation artifact)
