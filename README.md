@@ -16,7 +16,7 @@ To predict future market demand by learning patterns from historical consumer in
 - Feature engineering using lag variables and rolling averages
 - Model training using Random Forest Regression
 - Evaluation using Mean Absolute Error (MAE)
-- 12-week future demand forecasting
+- 8-week future demand forecasting
 
 ## Results
 - Achieved MAE ≈ 3.23 on unseen test data
